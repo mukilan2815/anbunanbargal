@@ -23,7 +23,6 @@ import EmojiEventsIcon from "@mui/icons-material/EmojiEvents";
 import CommentIcon from "@mui/icons-material/Comment";
 import EmailIcon from "@mui/icons-material/Email";
 import BookIcon from "@mui/icons-material/Book";
-import logo from "../assets/logo.jpg";
 import logonobg from "../Assets/logonobg.png";
 
 const StyledAppBar = styled(AppBar)`
